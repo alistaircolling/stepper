@@ -4,6 +4,7 @@
 
 ```
 git clone https://github.com/alistaircolling/stepper.git
+cd stepper
 yarn install
 ```
 
