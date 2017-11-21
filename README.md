@@ -19,4 +19,5 @@ yarn start
 ```
 yarn test
 ```
+Press `a` when prompted to run all tests
 
